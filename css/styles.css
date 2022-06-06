@@ -9,7 +9,7 @@ body {
     font-size: 12px;
     background-size: inherit;
     background-color: hsl(185, 75%, 39%);
-    background-image: url('/images/bg-pattern-top.svg'), url('/images/bg-pattern-bottom.svg');
+    background-image: url('../images/bg-pattern-top.svg'), url('../images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
     background-position: -550px -600px, 600px 150px;
     
